@@ -1,2 +1,10 @@
-build
-!.vscode/*
+build/
+*.uf2
+*.elf
+*.elf.map
+*.bin
+*.hex
+*.dis
+*.o
+*.a
+.DS_Store
